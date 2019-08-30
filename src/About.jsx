@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { fafilepdf } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 class About extends Component {
     render() {
@@ -25,7 +24,9 @@ class About extends Component {
                             </div>
                             <div className="columns download">
                             <p>
-                                <a href='' className="button"><img src='./images/fa-file-pdf.png' alt=""/>Download Resume</a>
+                            
+                                <a href='' className="button"><FontAwesomeIcon
+                                icon="file-pdf"/>Download Resume</a>
                             </p>
                         </div>
                     </div>

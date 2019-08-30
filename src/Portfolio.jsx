@@ -21,7 +21,7 @@ class Portfolio extends Component {
             <div  className="columns portfolio-item">
             <div className="item-wrap">
             <a href='https://mighty-atoll-95816.herokuapp.com' title='Nutri-facts'>
-                <img alt='Nutri-facts' src='./images/nutri-facts' />
+                <img alt='Nutri-facts' src='./images' />
                 <div className="overlay">
                     <div className="portfolio-item-meta">
                     <h5>Nutri-facts</h5>

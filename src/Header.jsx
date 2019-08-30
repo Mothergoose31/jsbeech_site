@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './App.css';
 
 class Header extends Component {
@@ -29,8 +30,12 @@ class Header extends Component {
             <h1 className="responsive-headline">Joseph Beech</h1>
             <h3> I'm a Software Engineer with a strong foundation in Physics Mathematics, with an appetite for learning and understanding new subjects as a means for analyzing new trends, that help me better explore and predict possibilities about the future.</h3>
             <hr />
+            
             <ul className="social">
-                
+            <li><a href="https://www.linkedin.com/in/joseph-beech/"> <i class="fab fa-linkedin"></i></a></li>
+            
+            <li><a href="https://github.com/Mothergoose31"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://www.facebook.com/joseph.alvarenga"><i class="fab fa-facebook-square"></i></a></li>
             </ul>
             </div>
         </div>
