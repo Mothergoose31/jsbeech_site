@@ -33,9 +33,9 @@ class Header extends Component {
             
             <ul className="social">
             <li><a href="https://www.linkedin.com/in/joseph-beech/"> <i class="fab fa-linkedin"></i></a></li>
-            
             <li><a href="https://github.com/Mothergoose31"><i class="fab fa-github"></i></a></li>
             <li><a href="https://www.facebook.com/joseph.alvarenga"><i class="fab fa-facebook-square"></i></a></li>
+            
             </ul>
             </div>
         </div>
